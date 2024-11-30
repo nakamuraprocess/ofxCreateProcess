@@ -1,2 +1,2 @@
 # ofxCreateProcess
-Execute CreateProcess in oF
+Execute CreateProcess in openFrameworks
